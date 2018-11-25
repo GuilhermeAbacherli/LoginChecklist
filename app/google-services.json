@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "758210869926",
+    "firebase_url": "https://loginchecklist-6b67d.firebaseio.com",
+    "project_id": "loginchecklist-6b67d",
+    "storage_bucket": "loginchecklist-6b67d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758210869926:android:acdf6de9cff2b01b",
+        "android_client_info": {
+          "package_name": "com.fatecid.guilhermeabacherli.loginchecklist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758210869926-7ata49071f2uqhvoo73tv2ivkgb3if04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fatecid.guilhermeabacherli.loginchecklist",
+            "certificate_hash": "ee0672255cbb67abd971b3a19c3ad5f95823620c"
+          }
+        },
+        {
+          "client_id": "758210869926-oefpkpjnacib5t1sfc9fa8bg488nflmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZb1y_VFwSeUPGuQTT6E8165Z6FGhr6NQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758210869926-oefpkpjnacib5t1sfc9fa8bg488nflmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
